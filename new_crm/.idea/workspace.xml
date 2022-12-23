@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4e6fb3c-1c69-4596-b8bd-398fdc0b9162" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/sscript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/24_canvas/style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/25_part2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/25_part2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/25_part2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/sobitiya/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/Homework/sobitiya/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/diplom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/diplom/openWater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/diplom/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-02-11-2022_cookie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-02-11-2022_cookie/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-02-11-2022_cookie/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-02-11-2022_cookie/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-02-11-2022_cookie/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-09-11-2022_convas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-09-11-2022_convas/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-09-11-2022_convas/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2020_AJAX_JSON/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2020_AJAX_JSON/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2020_AJAX_JSON/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2020_AJAX_JSON/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2022-part2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2022-part2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-16-11-2022-part2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-21-12-2022/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-21-12-2022/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-23-11-2022/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-23-11-2022/modules/mult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-23-11-2022/modules/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-23-11-2022/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-26-10-2022/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-26-10-2022/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-26-10-2022/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-26-10-2022/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-29-11-2022/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson-29-11-2022/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson_new-14.12.2022/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/lesson_new-14.12.2022/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/react/my-app/src/components/counter/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/react/my-app/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/react/my-app/src/components/header/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/react/my-app/src/components/woman/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/react/my-app/src/components/woman/woman.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaScript/react/new_app/src/components/input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork/seabattle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/feature-section.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/footer_bottom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/main_slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biznes/biznes_main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clinic_project/blog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies_catalogue/movies_manager/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies_catalogue/movies_manager/templates/by_director.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies_catalogue/movies_manager/templates/create_movie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies_catalogue/movies_manager/templates/layout/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies_catalogue/movies_manager/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies_catalogue/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiket/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiket/templates/layout/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiket/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiket/templates/tikets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiket/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-01-11-2022/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-25-10-2022/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2JH0KPsdsE6cHlaTgj9sFcauEG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../biznes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\openS\OSPanel\domains\ITStep.local\python\django\new_crm\tiket\templates" />
+      <recent name="D:\openS\OSPanel\domains\ITStep.local\python\django\new_crm\tiket\templates\layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="new_crm" type="Python.DjangoServer" factoryName="Django server">
+      <module name="new_crm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4e6fb3c-1c69-4596-b8bd-398fdc0b9162" name="Default Changelist" comment="" />
+      <created>1671719636415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671719636415</updated>
+      <workItem from="1671719637667" duration="9635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1671766028189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1671766028189" />
+  </component>
+</project>

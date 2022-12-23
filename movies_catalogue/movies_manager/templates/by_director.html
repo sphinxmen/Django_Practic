@@ -1,0 +1,21 @@
+{% extends 'layout/basic.html' %}
+{% block title %} Фильмы режисера: {{ current_director.first_name }}{{ curent_director.last_name }}
+{% endblock title %}
+{% block content %}
+    <h1>Список фильмов в Фильмотеке</h1>
+    <hr>
+    {% for movie in movies %}
+    <div>
+        <h2>{{ movie.name }}</h2>
+        <strong>Опубликованно</strong>
+        <p>{{ movie.published_on|date:"d.m.Y H:i:s"}}</p>
+        <h5>Райтинг</h5>
+        <p>{{ movie.rating }}</p>
+        {% if movie.description %}
+        <h3>Описание</h3>
+        <p>{{ movie.description }}</p>
+        {% endif %}
+    </div>
+    <hr>
+{% endfor %}
+{% endblock content %}
