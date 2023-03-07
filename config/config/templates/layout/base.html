@@ -1,0 +1,22 @@
+{% url 'login:login_view' as login_view %}
+{% url 'mainpage:mainpage_view' as mainpage_view %}
+
+
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HomeWork Python-Django</title>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+</head>
+<body>
+
+{% include 'layout/nav.html' %}
+{% block content %}
+{% endblock content %}
+{% include 'layout/footer.html' %}
