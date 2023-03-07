@@ -1,0 +1,25 @@
+{% extends 'layout/basic.html' %}
+
+{% block title %} Наименование: {{ current_ice_cream.name }}{{ current_ice_cream.city }}
+{% endblock title %}
+
+{% block content %}
+
+    <h1>Киоск</h1>
+    <hr>
+{#    <h2>ice_cream_shop</h2>#}
+
+{#    {% for ice_cream_shop in ice_creams %}#}
+    <div>
+        <h2>{{ current_ice_cream.name }}</h2>
+        <strong>Был основан</strong>
+        <p>{{ current_ice_cream.date_of_create}}</p>
+        <p>{{ current_ice_cream.city }}</p>
+{#        {% if ice_cream_shop.owen %}#}
+        <h3>Хозяин</h3>
+        <p>{{ current_ice_cream.ower }}</p>
+{#        {% endif %}#}
+    </div>
+    <hr>
+{#{% endfor %}#}
+{% endblock content %}

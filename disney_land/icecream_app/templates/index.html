@@ -1,0 +1,11 @@
+{% extends 'layout/basic.html' %}
+
+{% block content %}
+{#    <h1>Киоски</h1>#}
+    <hr>
+    {% for ice_cream_shop in kiosk %}
+        <div>
+            <h2>{{ ice_cream_shop.name }}</h2>
+        </div>
+    {% endfor %}
+{% endblock content %}

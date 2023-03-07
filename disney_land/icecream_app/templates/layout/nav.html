@@ -1,0 +1,13 @@
+{% block top_nav %}
+<div>
+    <ul>
+        <li><a href="{% url 'icecream_app:index' %}"> Главная</a></li>
+
+        {% for ice_cream_shop in ice_creams %}
+            <li><a href="{% url 'icecream_app:ice_cream_view' ice_cream_shop.pk %}">{{ ice_cream_shop.name }}</a></li>
+        {% endfor %}
+
+    </ul>
+</div>
+<div>
+{% endblock top_nav %}
